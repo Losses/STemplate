@@ -14,8 +14,8 @@ STemplate 开源模板系统
 
 条件判断：
 
-        `[[{{value}}
-        codes]]`
+        [[{{value}}
+        codes]]
         //当value对应的数据为真时输出内容
 
 注意
